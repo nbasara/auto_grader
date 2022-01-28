@@ -1,4 +1,16 @@
-Traceback (most recent call last):
-  File "/home/nathan/Documents/auto_grader/hello_world.py", line 2, in <module>
-    print(user_input + 2)
-TypeError: can only concatenate str (not "int") to str
+
+        1 Calculator
+        2 Bookstore System
+        0 Exit/Quit
+        
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        0 Return to main menu
+        
+Introduce the name of the file: 
