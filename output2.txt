@@ -13,7 +13,7 @@
         5 Search book by infix
         0 Return to main menu
         
-Introduce the name of the file: Loading 542684 books in 1.1821858882904053 seconds
+Introduce the name of the file: Loading 542684 books in 1.2531392574310303 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -39,7 +39,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Patterns of Preaching: A Sermon Sampler
 	Group: Book
 	Rank: 396585 
-4.291534423828125e-06 seconds
+7.867813110351562e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -55,7 +55,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: That Travelin' Two-Beat/Sings the Great Country Hits
 	Group: Music
 	Rank: 0 
-7.843971252441406e-05 seconds
+3.457069396972656e-05 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -71,7 +71,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Reckless
 	Group: Book
 	Rank: 92964 
-9.059906005859375e-06 seconds
+9.298324584960938e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -87,7 +87,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Big Shots: Business the Richard Branson Way
 	Group: Book
 	Rank: 464292 
-1.6689300537109375e-06 seconds
+1.430511474609375e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -103,7 +103,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: The Letters of John Wesley Hardin
 	Group: Book
 	Rank: 1041036 
-7.867813110351562e-06 seconds
+8.106231689453125e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -118,7 +118,7 @@ removeFromShoppingCart
 	Book: 0827229534
 	Title: Patterns of Preaching: A Sermon Sampler
 	Group: Book
-	Rank: 396585 Completed in 1.9073486328125e-06 seconds
+	Rank: 396585 Completed in 2.1457672119140625e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -178,7 +178,7 @@ removeFromShoppingCart
 	Book: 1571686223
 	Title: The Letters of John Wesley Hardin
 	Group: Book
-	Rank: 1041036 Completed in 5.7220458984375e-06 seconds
+	Rank: 1041036 Completed in 5.4836273193359375e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -546,7 +546,7 @@ Introduce the query to search: -------------------------
 	Group: Book
 	Rank: 505266
 
-searchBookByInfix Completed in 5.984306335449219e-05 seconds
+searchBookByInfix Completed in 6.699562072753906e-05 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -557,7 +557,35 @@ searchBookByInfix Completed in 5.984306335449219e-05 seconds
         5 Search book by infix
         0 Return to main menu
         
-Introduce the query to search: searchBookByInfix Completed in 1.7404556274414062e-05 seconds
+Introduce the query to search: -------------------------
+
+	Book: 0415237300
+	Title: World of Parmenides
+	Group: Book
+	Rank: 628619
+
+-------------------------
+
+	Book: 0754805794
+	Title: Pasta : A Cook's Guide to the Delicious World of Pasta and Noodles, with 500 Recipes
+	Group: Book
+	Rank: 987925
+
+-------------------------
+
+	Book: 0822956667
+	Title: Prodigal Son: Dancing for Balanchine in a World of Pain and Magic
+	Group: Book
+	Rank: 334419
+
+-------------------------
+
+	Book: 288046692X
+	Title: Stretch: The World of Panoramic Photography
+	Group: Book
+	Rank: 80993
+
+searchBookByInfix Completed in 0.1989152431488037 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -568,7 +596,14 @@ Introduce the query to search: searchBookByInfix Completed in 1.7404556274414062
         5 Search book by infix
         0 Return to main menu
         
-Introduce the query to search: searchBookByInfix Completed in 1.5974044799804688e-05 seconds
+Introduce the query to search: -------------------------
+
+	Book: 1570753997
+	Title: Lamentations and the Tears of the World
+	Group: Book
+	Rank: 246771
+
+searchBookByInfix Completed in 0.1943063735961914 seconds
 
         s FIFO shopping cart
         r Random shopping cart

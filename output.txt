@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/home/nathan/Documents/auto_grader/main.py", line 5, in <module>
-    main()
-  File "/home/nathan/Documents/auto_grader/main.py", line 2, in main
-    print("does this return 0?" + 0)
-TypeError: can only concatenate str (not "int") to str
