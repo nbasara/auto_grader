@@ -9,13 +9,20 @@ In .zip
 
 input.txt OutputGrader.py python_test.sh
 
+## Requirements
+
+Unix file system with the unzip command and ability to run bash scripts.
 
 ## How to Use
 
-Create a grading environment with all template files excluding the necessary files from students
+Create a grading environment with all template files excluding the necessary files from student's
 assignment.  
-Have the students submit a zip file containing the necessary. Be sure the files are zipped and not a folder.
+Have the students submit a zip file containing the necessary files to dropbox via beachboard. Be sure the files are zipped and not a folder.
 The bash script assumes there is no underlying directory in the zip.
+
+In the grading environment include input.txt, OutputGrader.py, python_test.sh, and all of the files from dropbox.
+
+I have ran and devloped on ubuntu linux. Although you will also be able to run on WindowsSubsystemLinux or GITBash.
 
 To run on Linux
 `chmod +x python_test.sh`
