@@ -6,6 +6,7 @@ In .zip
 * ArrayList.py 
 * ArrayQueue.py 
 * BookStore.py
+
 input.txt OutputGrader.py python_test.sh
 
 
@@ -28,10 +29,10 @@ Auto grader script that will automatically give input to a python program and be
 
 ### To Do 
 
-[x] Given a python file be able to give user input from input file
-[x] Output of python file to output.txt
-[x] Be able to detect when a program crashes
-[x] Give clean output for various benchmarks
-[x] Write output from grade to student folders
-[x] Write a script that will grade the students output
-[x] Write single file detailing student names and student grades
+- [x] Given a python file be able to give user input from input file
+- [x] Output of python file to output.txt
+- [x] Be able to detect when a program crashes
+- [x] Give clean output for various benchmarks
+- [x] Write output from grade to student folders
+- [x] Write a script that will grade the students output
+- [x] Write single file detailing student names and student grades
