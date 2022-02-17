@@ -8,7 +8,6 @@ for s in *.zip; do
     readarray -d '- ' -t stdArr <<< "$s"
     studentName="${stdArr[2]}"
     studentName="$(echo -e "${studentName}" | tr -d '[:space:]')"
-    echo $studentName
     unzip -qq "$s" -d $studentName
     student=${s::-4}
     cp "$studentName"/ArrayList.py .
