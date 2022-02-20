@@ -1,3 +1,4 @@
+
 def grade_section1(content):
     i = 0
     j = 0
@@ -31,14 +32,15 @@ def grade_section2(content, start):
     while i < len(content):
         if 'Introduce the query to search' in content[i] and count1 == 0:
             i += 1 
-            while i < len(content) and count1 < 50:
+            while i < len(content) and count1 < 50 and 'searchBookByInfix Completed' not in content[i]:
                 if "Book:" in content[i]:
                     i += 2
                     count1 += 1
                 i += 1
             if count1 < 50:
                 return (False, "Did not print enough books")
-        elif 'Introduce the query to search' in content[i] and count2 == 0:
+        elif 'Introduce the query to search' in content[i] and count2 == 0 and 'searchBookByInfix Completed' not in content[i]:
+
             i += 1 
             while i < len(content) and count2 < 4:
                 if "Book:" in content[i] and "World of Pa" in content[i+1]:
@@ -47,7 +49,8 @@ def grade_section2(content, start):
                 i += 1
             if count2 < 4: 
                 return (False, "Did not print enough books")
-        elif 'Introduce the query to search' in content[i] and count3 == 0:
+        elif 'Introduce the query to search' in content[i] and count3 == 0 and 'searchBookByInfix Completed' not in content[i]:
+
             i += 1 
             while i < len(content) and count3 < 1:
                 if "Book:" in content[i] and "Tears of the Wo" in content[i+1]:
