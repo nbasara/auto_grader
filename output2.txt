@@ -32,7 +32,7 @@ Enter a word/phrase: Result: Palindrome
         3 Palindrome Test
         0 Exit/Quit
         
-Enter a word/phrase: Result: Not a palindrome
+Enter a word/phrase: Result: Palindrome
 
         1 Calculator
         2 Bookstore System
@@ -159,7 +159,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
         0 Return to main menu
         
 getCartBestSeller returned 
-The Letters of John Wesley Hardin 
+Winnie the Poo 
 Completed in 2.384185791015625e-06 seconds
 
         s FIFO shopping cart

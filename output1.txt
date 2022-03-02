@@ -25,7 +25,7 @@ Enter a word/phrase: Result: Palindrome
         3 Palindrome Test
         0 Exit/Quit
         
-Enter a word/phrase: Result: Palindrome
+Enter a word/phrase: Result: Not a palindrome
 
         1 Calculator
         2 Bookstore System

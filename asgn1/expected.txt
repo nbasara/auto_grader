@@ -1,42 +1,6 @@
 
         1 Calculator
         2 Bookstore System
-        3 Palindrome Test
-        0 Exit/Quit
-        
-Enter a word/phrase: Result: Palindrome
-
-        1 Calculator
-        2 Bookstore System
-        3 Palindrome Test
-        0 Exit/Quit
-        
-Enter a word/phrase: Result: Palindrome
-
-        1 Calculator
-        2 Bookstore System
-        3 Palindrome Test
-        0 Exit/Quit
-        
-Enter a word/phrase: Result: Palindrome
-
-        1 Calculator
-        2 Bookstore System
-        3 Palindrome Test
-        0 Exit/Quit
-        
-Enter a word/phrase: Result: Palindrome
-
-        1 Calculator
-        2 Bookstore System
-        3 Palindrome Test
-        0 Exit/Quit
-        
-Enter a word/phrase: Result: Not a palindrome
-
-        1 Calculator
-        2 Bookstore System
-        3 Palindrome Test
         0 Exit/Quit
         
 
@@ -47,10 +11,9 @@ Enter a word/phrase: Result: Not a palindrome
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
-Introduce the name of the file: Loading 542684 books in 1.7402856349945068 seconds
+Introduce the name of the file: Loading 542684 books in 1.1761276721954346 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -59,7 +22,6 @@ Introduce the name of the file: Loading 542684 books in 1.7402856349945068 secon
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 
@@ -70,7 +32,6 @@ Introduce the name of the file: Loading 542684 books in 1.7402856349945068 secon
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the index to add to shopping cart: Added to shopping cart 
@@ -78,7 +39,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Patterns of Preaching: A Sermon Sampler
 	Group: Book
 	Rank: 396585 
-1.0013580322265625e-05 seconds
+5.7220458984375e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -87,24 +48,6 @@ Introduce the index to add to shopping cart: Added to shopping cart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
-        0 Return to main menu
-        
-Introduce the index to add to shopping cart: Added to shopping cart 
-	Book: 1571686223
-	Title: The Letters of John Wesley Hardin
-	Group: Book
-	Rank: 1041036 
-0.014265060424804688 seconds
-
-        s FIFO shopping cart
-        r Random shopping cart
-        1 Load book catalog
-        2 Remove a book by index from catalog
-        3 Add a book by index to shopping cart
-        4 Remove from the shopping cart
-        5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the index to add to shopping cart: Added to shopping cart 
@@ -112,7 +55,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: That Travelin' Two-Beat/Sings the Great Country Hits
 	Group: Music
 	Rank: 0 
-8.821487426757812e-06 seconds
+3.0040740966796875e-05 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -121,7 +64,6 @@ Introduce the index to add to shopping cart: Added to shopping cart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the index to add to shopping cart: Added to shopping cart 
@@ -129,7 +71,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Reckless
 	Group: Book
 	Rank: 92964 
-0.021304607391357422 seconds
+9.298324584960938e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -138,7 +80,6 @@ Introduce the index to add to shopping cart: Added to shopping cart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the index to add to shopping cart: Added to shopping cart 
@@ -146,7 +87,7 @@ Introduce the index to add to shopping cart: Added to shopping cart
 	Title: Big Shots: Business the Richard Branson Way
 	Group: Book
 	Rank: 464292 
-0.00959157943725586 seconds
+1.6689300537109375e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -155,12 +96,14 @@ Introduce the index to add to shopping cart: Added to shopping cart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
-getCartBestSeller returned 
-The Letters of John Wesley Hardin 
-Completed in 2.384185791015625e-06 seconds
+Introduce the index to add to shopping cart: Added to shopping cart 
+	Book: 1571686223
+	Title: The Letters of John Wesley Hardin
+	Group: Book
+	Rank: 1041036 
+7.152557373046875e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -169,14 +112,13 @@ Completed in 2.384185791015625e-06 seconds
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 removeFromShoppingCart 
 	Book: 0827229534
 	Title: Patterns of Preaching: A Sermon Sampler
 	Group: Book
-	Rank: 396585 Completed in 5.245208740234375e-06 seconds
+	Rank: 396585 Completed in 1.9073486328125e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -185,44 +127,13 @@ removeFromShoppingCart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
-        0 Return to main menu
-        
-removeFromShoppingCart 
-	Book: 1571686223
-	Title: The Letters of John Wesley Hardin
-	Group: Book
-	Rank: 1041036 Completed in 3.0994415283203125e-06 seconds
-
-        s FIFO shopping cart
-        r Random shopping cart
-        1 Load book catalog
-        2 Remove a book by index from catalog
-        3 Add a book by index to shopping cart
-        4 Remove from the shopping cart
-        5 Search book by infix
-        6 Get cart best-seller
-        0 Return to main menu
-        
-getCartBestSeller returned 
-Big Shots: Business the Richard Branson Way 
-Completed in 9.5367431640625e-07 seconds
-
-        s FIFO shopping cart
-        r Random shopping cart
-        1 Load book catalog
-        2 Remove a book by index from catalog
-        3 Add a book by index to shopping cart
-        4 Remove from the shopping cart
-        5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 removeFromShoppingCart 
 	Book: B00005MHUG
 	Title: That Travelin' Two-Beat/Sings the Great Country Hits
 	Group: Music
-	Rank: 0 Completed in 1.6689300537109375e-06 seconds
+	Rank: 0 Completed in 9.5367431640625e-07 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -231,14 +142,13 @@ removeFromShoppingCart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 removeFromShoppingCart 
 	Book: 055329315X
 	Title: Reckless
 	Group: Book
-	Rank: 92964 Completed in 1.6689300537109375e-06 seconds
+	Rank: 92964 Completed in 7.62939453125e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -247,14 +157,13 @@ removeFromShoppingCart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 removeFromShoppingCart 
 	Book: 1841121495
 	Title: Big Shots: Business the Richard Branson Way
 	Group: Book
-	Rank: 464292 Completed in 2.6226043701171875e-06 seconds
+	Rank: 464292 Completed in 5.9604644775390625e-06 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -263,7 +172,21 @@ removeFromShoppingCart
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
+        0 Return to main menu
+        
+removeFromShoppingCart 
+	Book: 1571686223
+	Title: The Letters of John Wesley Hardin
+	Group: Book
+	Rank: 1041036 Completed in 5.4836273193359375e-06 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
         0 Return to main menu
         
 Introduce the query to search: -------------------------
@@ -616,8 +539,7 @@ Introduce the query to search: -------------------------
 	Group: Music
 	Rank: 110723
 
-Infix Matches: 50
-searchBookByInfix Completed in 4.839897155761719e-05 seconds
+searchBookByInfix Completed in 5.984306335449219e-05 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -626,7 +548,6 @@ searchBookByInfix Completed in 4.839897155761719e-05 seconds
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the query to search: -------------------------
@@ -657,8 +578,7 @@ Introduce the query to search: -------------------------
 	Group: Book
 	Rank: 80993
 
-Infix Matches: 4
-searchBookByInfix Completed in 0.100616455078125 seconds
+searchBookByInfix Completed in 0.1902616024017334 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -667,7 +587,6 @@ searchBookByInfix Completed in 0.100616455078125 seconds
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 Introduce the query to search: -------------------------
@@ -677,8 +596,7 @@ Introduce the query to search: -------------------------
 	Group: Book
 	Rank: 246771
 
-Infix Matches: 1
-searchBookByInfix Completed in 0.10628676414489746 seconds
+searchBookByInfix Completed in 0.19054102897644043 seconds
 
         s FIFO shopping cart
         r Random shopping cart
@@ -687,12 +605,10 @@ searchBookByInfix Completed in 0.10628676414489746 seconds
         3 Add a book by index to shopping cart
         4 Remove from the shopping cart
         5 Search book by infix
-        6 Get cart best-seller
         0 Return to main menu
         
 
         1 Calculator
         2 Bookstore System
-        3 Palindrome Test
         0 Exit/Quit
         
