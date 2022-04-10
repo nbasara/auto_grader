@@ -10,10 +10,8 @@ for s in *.zip; do
     studentName="$(echo -e "${studentName}" | tr -d '[:space:]')"
     unzip -qq "$s" -d $studentName
     student=${s::-4}
-    cp "$studentName"/SLLStack.py .
-    cp "$studentName"/SLLQueue.py .
-    cp "$studentName"/DLList.py .
-    cp "$studentName"/MaxQueue.py .
+    cp "$studentName"/ChainHashedTable.py .
+    cp "$studentName"/Bookstore.py .
     #run program on input from input.txt, with output + errors being
     #written to output.txt
     python3 main.py  < input.txt > output.txt 2>&1 
@@ -21,7 +19,7 @@ for s in *.zip; do
     if [ $? -eq 0 ]; then
         ((score=score+1))
         #run the autograder for the students output
-        python3 OutputGrader2.py 
+        python3 OutputGrader3.py 
         if [ $? -eq 0 ]; then
             ((score=score+1))
         fi
@@ -38,8 +36,6 @@ for s in *.zip; do
     #change this to be student name and grade
 
     # rm student files to do again
-    rm SLLStack.py 
-    rm SLLQueue.py
-    rm DLList.py
-    rm MaxQueue.py
+    rm ChainHashedTable.py
+    rm Bookstore.py
 done

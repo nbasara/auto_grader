@@ -1,0 +1,175 @@
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the name of the file: Loading 542684 books in 61.015387296676636 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the book key: Book not found.
+addBookByKey Completed in 2.2649765014648438e-05 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the book key: Added title: The Eel
+addBookByKey Completed in 0.10881400108337402 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the book key: Added title: The World of Pooh : The Complete Winnie-the-Pooh and The House at Pooh Corner (Pooh Original Edition)
+addBookByKey Completed in 0.04367232322692871 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the book key: Added title: Big Shots: Business the Richard Branson Way
+addBookByKey Completed in 0.08447861671447754 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+Introduce the book key: Added title: Reckless
+addBookByKey Completed in 0.1712188720703125 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+removeFromShoppingCart 
+	Book: 1567302181
+	Title: The Eel
+	Group: Video
+	Rank: 34298 Completed in 2.3365020751953125e-05 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+removeFromShoppingCart 
+	Book: 0525444475
+	Title: The World of Pooh : The Complete Winnie-the-Pooh and The House at Pooh Corner (Pooh Original Edition)
+	Group: Book
+	Rank: 28615 Completed in 6.67572021484375e-06 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+removeFromShoppingCart 
+	Book: 1841121495
+	Title: Big Shots: Business the Richard Branson Way
+	Group: Book
+	Rank: 464292 Completed in 1.1205673217773438e-05 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+removeFromShoppingCart 
+	Book: 055329315X
+	Title: Reckless
+	Group: Book
+	Rank: 92964 Completed in 9.298324584960938e-06 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
